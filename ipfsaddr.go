@@ -6,7 +6,7 @@ import (
 
 	logging "github.com/ipfs/go-log"
 	peer "github.com/libp2p/go-libp2p-peer"
-	ma "github.com/multiformats/go-multiaddr"
+	ma "github.com/btfslib/go-multiaddr"
 )
 
 var log = logging.Logger("ipfsaddr")

@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	peer "github.com/libp2p/go-libp2p-peer"
-	ma "github.com/multiformats/go-multiaddr"
+	ma "github.com/btfslib/go-multiaddr"
 )
 
 var good = []string{
